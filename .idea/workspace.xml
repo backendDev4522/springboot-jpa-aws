@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e76c00f-5dcd-4342-95ab-2512a2d33a60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/blog/springboot/web/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/blog/springboot/web/HelloControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +75,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Gradle.HelloResponseDtoTest.롬복_기능_테스트">
+  <component name="RunManager" selected="Gradle.HelloControllerTest.helloDto가_리턴된다">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.blog.springboot.Application" />
       <module name="springboot-jpa-aws.main" />
@@ -95,6 +94,26 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="HelloControllerTest.helloDto가_리턴된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.HelloControllerTest.helloDto가_리턴된다&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="HelloControllerTest.hello가_리턴된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -158,6 +177,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.HelloControllerTest.helloDto가_리턴된다" />
         <item itemvalue="Gradle.HelloResponseDtoTest.롬복_기능_테스트" />
         <item itemvalue="Gradle.HelloControllerTest.hello가_리턴된다" />
         <item itemvalue="Gradle.HelloControllerTest.return_hello" />
@@ -215,34 +235,34 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="252" width="675" height="332" key="Github.ShareDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577717860866" />
-    <state width="1237" height="186" key="GridCell.Tab.0.bottom" timestamp="1577722801844">
+    <state width="1237" height="186" key="GridCell.Tab.0.bottom" timestamp="1577724422711">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577722801844" />
-    <state width="1237" height="186" key="GridCell.Tab.0.center" timestamp="1577722801844">
+    <state width="1237" height="186" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724422711" />
+    <state width="1237" height="186" key="GridCell.Tab.0.center" timestamp="1577724422710">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577722801844" />
-    <state width="1237" height="186" key="GridCell.Tab.0.left" timestamp="1577722801843">
+    <state width="1237" height="186" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724422710" />
+    <state width="1237" height="186" key="GridCell.Tab.0.left" timestamp="1577724422709">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577722801843" />
-    <state width="1237" height="186" key="GridCell.Tab.0.right" timestamp="1577722801844">
+    <state width="1237" height="186" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724422709" />
+    <state width="1237" height="186" key="GridCell.Tab.0.right" timestamp="1577724422711">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="186" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577722801844" />
-    <state x="142" y="3" key="SettingsEditor" timestamp="1577721537062">
+    <state width="1237" height="186" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724422711" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1577724850289">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721537062" />
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724850289" />
     <state x="0" y="0" width="620" height="720" key="find.popup" timestamp="1577721698564">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="0" y="0" width="620" height="720" key="find.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721698564" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577721700378">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577724859348">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721700378" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724859348" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
