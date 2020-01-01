@@ -2,8 +2,10 @@ package com.example.blog.springboot.web.dto;
 
 import com.example.blog.springboot.domain.posts.Posts;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 @Getter
+@NoArgsConstructor
 public class PostsResponseDto {
     private Long id;
     private String title;
