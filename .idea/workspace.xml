@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e76c00f-5dcd-4342-95ab-2512a2d33a60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/Posts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -52,6 +62,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -75,22 +86,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Gradle.HelloControllerTest.helloDto가_리턴된다">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.blog.springboot.Application" />
-      <module name="springboot-jpa-aws.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.blog.springboot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Gradle.PostsApiControllerTest.Posts_수정된다">
     <configuration name="HelloControllerTest.helloDto가_리턴된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -111,12 +109,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HelloControllerTest.hello가_리턴된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PostsApiControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.HelloControllerTest.hello가_리턴된다&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.PostsApiControllerTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -131,12 +129,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HelloControllerTest.return_hello" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PostsApiControllerTest.Posts_등록된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.HelloControllerTest.return_hello&quot; --info" />
+        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.PostsApiControllerTest.Posts_등록된다&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -151,12 +149,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="HelloResponseDtoTest.롬복_기능_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PostsApiControllerTest.Posts_수정된다" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.dto.HelloResponseDtoTest.롬복_기능_테스트&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.web.PostsApiControllerTest.Posts_수정된다&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsRepositoryTest.게시글저장_불러오기" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.blog.springboot.domain.posts.PostsRepositoryTest.게시글저장_불러오기&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -173,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PostsApiControllerTest.Posts_수정된다" />
+        <item itemvalue="Gradle.PostsApiControllerTest.Posts_등록된다" />
+        <item itemvalue="Gradle.PostsApiControllerTest" />
+        <item itemvalue="Gradle.PostsRepositoryTest.게시글저장_불러오기" />
         <item itemvalue="Gradle.HelloControllerTest.helloDto가_리턴된다" />
-        <item itemvalue="Gradle.HelloResponseDtoTest.롬복_기능_테스트" />
-        <item itemvalue="Gradle.HelloControllerTest.hello가_리턴된다" />
-        <item itemvalue="Gradle.HelloControllerTest.return_hello" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -211,10 +229,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="20" key="#Plugins/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721718933" />
-    <state x="233" y="20" key="#Project_Structure" timestamp="1577718924343">
+    <state x="233" y="20" key="#Project_Structure" timestamp="1577857721542">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Project_Structure/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577718924343" />
+    <state x="233" y="20" key="#Project_Structure/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577857721542" />
     <state x="93" y="93" width="1095" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577721019865">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -231,34 +249,54 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="252" width="675" height="332" key="Github.ShareDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577717860866" />
-    <state width="1237" height="152" key="GridCell.Tab.0.bottom" timestamp="1577855484336">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom" timestamp="1577866203144">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="152" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577855484336" />
-    <state width="1237" height="152" key="GridCell.Tab.0.center" timestamp="1577855484336">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
+    <state width="1237" height="116" key="GridCell.Tab.0.center" timestamp="1577866203144">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="152" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577855484336" />
-    <state width="1237" height="152" key="GridCell.Tab.0.left" timestamp="1577855484336">
+    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
+    <state width="1237" height="116" key="GridCell.Tab.0.left" timestamp="1577866203144">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="152" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577855484336" />
-    <state width="1237" height="152" key="GridCell.Tab.0.right" timestamp="1577855484336">
+    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right" timestamp="1577866203144">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="152" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577855484336" />
-    <state x="142" y="3" key="SettingsEditor" timestamp="1577724850289">
+    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
+    <state width="1237" height="89" key="GridCell.Tab.1.bottom" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724850289" />
-    <state x="0" y="0" width="620" height="720" key="find.popup" timestamp="1577721698564">
+    <state width="1237" height="89" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577861735449" />
+    <state width="1237" height="89" key="GridCell.Tab.1.center" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="0" y="0" width="620" height="720" key="find.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721698564" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577724859348">
+    <state width="1237" height="89" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577861735449" />
+    <state width="1237" height="89" key="GridCell.Tab.1.left" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577724859348" />
+    <state width="1237" height="89" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577861735449" />
+    <state width="1237" height="89" key="GridCell.Tab.1.right" timestamp="1577861735449">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="89" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577861735449" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1577857661855">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577857661855" />
+    <state x="444" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577859537891">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="444" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577859537891" />
+    <state x="0" y="0" width="620" height="720" key="find.popup" timestamp="1577857964890">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="0" y="0" width="620" height="720" key="find.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577857964890" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1577858985201">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577858985201" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -271,10 +309,39 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/blog/springboot/domain/posts/PostsRepositoryTest.java</url>
+          <line>26</line>
+          <properties class="com.example.blog.springboot.domain.posts.PostsRepositoryTest" method="게시글저장_불러오기">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/blog/springboot/web/PostsApiControllerTest.java</url>
+          <line>42</line>
+          <properties class="com.example.blog.springboot.web.PostsApiControllerTest" method="Posts_등록된다">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/blog/springboot/web/PostsApiControllerTest.java</url>
+          <line>69</line>
+          <properties class="com.example.blog.springboot.web.PostsApiControllerTest" method="Posts_수정된다">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/blog/springboot/Application.java</url>
           <line>7</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/blog/springboot/domain/posts/PostsRepositoryTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
