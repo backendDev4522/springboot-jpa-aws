@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e76c00f-5dcd-4342-95ab-2512a2d33a60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/dto/PostsResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/dto/PostsResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +79,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager" selected="Gradle.PostsApiControllerTest.Posts_수정된다">
@@ -222,10 +224,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="20" key="#Plugins/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577721718933" />
-    <state x="233" y="20" key="#Project_Structure" timestamp="1577857721542">
+    <state x="233" y="20" key="#Project_Structure" timestamp="1577869501450">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Project_Structure/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577857721542" />
+    <state x="233" y="20" key="#Project_Structure/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577869501450" />
     <state x="93" y="93" width="1095" height="535" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577721019865">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -242,22 +244,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="252" width="675" height="332" key="Github.ShareDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577717860866" />
-    <state width="1237" height="116" key="GridCell.Tab.0.bottom" timestamp="1577866203144">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom" timestamp="1577869333374">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
-    <state width="1237" height="116" key="GridCell.Tab.0.center" timestamp="1577866203144">
+    <state width="1237" height="116" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577869333374" />
+    <state width="1237" height="116" key="GridCell.Tab.0.center" timestamp="1577869333373">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
-    <state width="1237" height="116" key="GridCell.Tab.0.left" timestamp="1577866203144">
+    <state width="1237" height="116" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577869333373" />
+    <state width="1237" height="116" key="GridCell.Tab.0.left" timestamp="1577869333373">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
-    <state width="1237" height="116" key="GridCell.Tab.0.right" timestamp="1577866203144">
+    <state width="1237" height="116" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577869333373" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right" timestamp="1577869333374">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577866203144" />
+    <state width="1237" height="116" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577869333374" />
     <state width="1237" height="89" key="GridCell.Tab.1.bottom" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
