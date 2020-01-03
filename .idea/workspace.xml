@@ -4,9 +4,9 @@
     <list default="true" id="0e76c00f-5dcd-4342-95ab-2512a2d33a60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/Posts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/blog/springboot/domain/posts/PostsRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/blog/springboot/domain/posts/PostsRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/PostsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/domain/posts/PostsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/service/posts/PostsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/service/posts/PostsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/PostsApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/PostsApiController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,9 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-jpa-aws" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -86,7 +89,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
-  <component name="RunManager" selected="Gradle.PostsRepositoryTest.BaseTimeEntity_등록">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.blog.springboot.Application" />
       <module name="springboot-jpa-aws.main" />
@@ -184,7 +187,6 @@
       <list>
         <item itemvalue="Gradle.PostsRepositoryTest.BaseTimeEntity_등록" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="Gradle.PostsApiControllerTest.Posts_수정된다" />
         <item itemvalue="Gradle.PostsApiControllerTest.Posts_등록된다" />
         <item itemvalue="Gradle.PostsApiControllerTest" />
       </list>
@@ -240,22 +242,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="252" width="675" height="332" key="Github.ShareDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577717860866" />
-    <state width="1237" height="79" key="GridCell.Tab.0.bottom" timestamp="1577870345853">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1578060411984">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="79" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577870345853" />
-    <state width="1237" height="79" key="GridCell.Tab.0.center" timestamp="1577870345853">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578060411984" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1578060411984">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="79" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577870345853" />
-    <state width="1237" height="79" key="GridCell.Tab.0.left" timestamp="1577870345853">
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578060411984" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1578060411984">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="79" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577870345853" />
-    <state width="1237" height="79" key="GridCell.Tab.0.right" timestamp="1577870345853">
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578060411984" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1578060411984">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="79" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577870345853" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578060411984" />
     <state width="1237" height="89" key="GridCell.Tab.1.bottom" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
