@@ -1,11 +1,14 @@
 package com.example.blog.springboot.web;
 
 import com.example.blog.springboot.service.posts.PostsService;
+import com.example.blog.springboot.web.dto.PostsListResponseDto;
 import com.example.blog.springboot.web.dto.PostsResponseDto;
 import com.example.blog.springboot.web.dto.PostsSaveRequestDto;
 import com.example.blog.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
 
 @RequiredArgsConstructor
 @RestController
@@ -26,5 +29,10 @@ public class PostsApiController {
     @GetMapping("/api/v1/posts/{id}")
     public PostsResponseDto findById(@PathVariable Long id){
         return postsService.findById(id);
+    }
+
+    @GetMapping("/api/v1/posts")
+    public List<PostsListResponseDto> findAllDesc(){
+        return postsService.findAllDesc();
     }
 }
