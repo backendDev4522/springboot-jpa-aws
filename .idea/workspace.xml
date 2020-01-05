@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0e76c00f-5dcd-4342-95ab-2512a2d33a60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/blog/springboot/web/IndexController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -250,10 +252,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="20" key="#Plugins" timestamp="1578237373555">
+    <state x="233" y="20" key="#Plugins" timestamp="1578239339654">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="20" key="#Plugins/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237373555" />
+    <state x="233" y="20" key="#Plugins/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578239339654" />
     <state x="2270" y="30" key="#Plugins/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578235766011" />
     <state x="233" y="20" key="#Project_Structure" timestamp="1577869501450">
       <screen x="0" y="0" width="1280" height="720" />
@@ -283,22 +285,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="492" y="252" width="675" height="332" key="Github.ShareDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577717860866" />
-    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1578237694313">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1578240383030">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237694313" />
-    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1578237694312">
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240383030" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1578240383030">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237694312" />
-    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1578237694312">
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240383030" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1578240383030">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237694312" />
-    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1578237694313">
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240383030" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1578240383030">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237694313" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240383030" />
     <state width="1237" height="89" key="GridCell.Tab.1.bottom" timestamp="1577861735449">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -315,10 +317,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="89" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1577861735449" />
-    <state x="142" y="3" key="SettingsEditor" timestamp="1578237447966">
+    <state x="142" y="3" key="SettingsEditor" timestamp="1578239731306">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237447966" />
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578239731306" />
     <state x="2133" y="5" key="SettingsEditor/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578234867484" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1578234735285">
       <screen x="0" y="0" width="1280" height="720" />
@@ -340,10 +342,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="399" y="64" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578234022601" />
-    <state x="0" y="0" width="875" height="720" key="find.popup" timestamp="1578237681735">
+    <state x="0" y="0" width="875" height="720" key="find.popup" timestamp="1578240042546">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="0" y="0" width="875" height="720" key="find.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237681735" />
+    <state x="0" y="0" width="875" height="720" key="find.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240042546" />
     <state x="1920" y="0" width="930" height="1080" key="find.popup/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578235810369" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1578236164950">
       <screen x="0" y="0" width="1280" height="720" />
@@ -353,10 +355,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578236389806" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1578237665101">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1578240023404">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578237665101" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1578240023404" />
     <state x="2375" y="62" width="1008" height="1017" key="search.everywhere.popup/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578235819723" />
   </component>
   <component name="XDebuggerManager">
