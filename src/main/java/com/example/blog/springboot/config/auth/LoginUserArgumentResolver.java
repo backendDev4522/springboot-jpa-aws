@@ -3,6 +3,7 @@ package com.example.blog.springboot.config.auth;
 import com.example.blog.springboot.config.auth.dto.SessionUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.core.MethodParameter;
+import org.springframework.stereotype.Component;
 import org.springframework.web.bind.support.WebDataBinderFactory;
 import org.springframework.web.context.request.NativeWebRequest;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;
@@ -11,7 +12,7 @@ import org.springframework.web.method.support.ModelAndViewContainer;
 import javax.servlet.http.HttpSession;
 
 @RequiredArgsConstructor
-@Componet
+@Component
 public class LoginUserArgumentResolver implements HandlerMethodArgumentResolver {
 
     private final HttpSession httpSession;
